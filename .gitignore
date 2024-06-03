@@ -1,5 +1,7 @@
 *.png
 
+*.orig
+
 # Logs
 logs
 *.log
