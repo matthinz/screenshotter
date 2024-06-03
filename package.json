@@ -1,0 +1,13 @@
+{
+  "name": "screenshotter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "CC0-1.0",
+  "bin": "screenshotter.js",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  },
+  "scripts": {
+    "start": "node screenshotter.js"
+  }
+}
